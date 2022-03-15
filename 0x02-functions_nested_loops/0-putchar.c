@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int main()
+/**
+* main - prints _putchar
+*
+* Return: Always 0 (Sucess)
+*/
+int main(void)
 {
-    printf("_putchar\n");
-    return 0;
+printf("_putchar\n");
+return (0);
 }
