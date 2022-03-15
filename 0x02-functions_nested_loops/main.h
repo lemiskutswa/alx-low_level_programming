@@ -1,13 +1,14 @@
-#include <stdio.h>
-#include <stdlib.h>
+int _putchar(char c);
+void print_alphabet(void);
+void print_alphabet_x10(void);
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int x);
+int print_last_digit(int x);
+void jack_bauer(void);
+int add(int a, int b);
+void print_to_98(int n);
+void times_table(void);
+void print_times_table(int n);
 
-/**
-* main - prints _putchar
-*
-* Return: Always 0 (Sucess)
-*/
-int main(void)
-{
-printf("_putchar\n");
-return (0);
-}
