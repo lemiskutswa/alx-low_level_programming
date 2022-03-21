@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strlen - check the code for Holberton School students.
  * @s: declaration of *s and paramters for the function _strlen
